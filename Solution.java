@@ -30,6 +30,5 @@ public class Hello {
 	           System.out.println(stringone.charAt(i));
 	       }
 	   }
-
 	}
 }
