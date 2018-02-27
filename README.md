@@ -1,6 +1,6 @@
 # Match-Last-Letter---Skillrack
 <h3 style="color:#003333">Match Last Letter</h3>
-<br> <p>Given two strings S1 and S2 , print the string S1 vertically with the string S2 in reversed manner which ends with the letter being considered in S1.<br>
+<p>Given two strings S1 and S2 , print the string S1 vertically with the string S2 in reversed manner which ends with the letter being considered in S1.<br>
 &nbsp;<br>
 <strong>Boundary Condition :</strong><br>
 1 &lt;= Length of strings S1 , S2 &lt;= 100</p>
